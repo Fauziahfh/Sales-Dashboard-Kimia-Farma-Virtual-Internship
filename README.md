@@ -16,7 +16,10 @@ tanggal, id_customer dan id_invoice
    - Tabel aggregate disimpan di dalam datamart
 
 # Data Visualization
-[Link Dashboard Google Data Studio](https://lookerstudio.google.com/s/mTNzp98okkA)
+[Link Dashboard Google Data Studio](https://lookerstudio.google.com/s/mTNzp98okkA)!
+[Sales Dashboard PT. Kimia Farma](https://github.com/Fauziahfh/Sales-Dashboard-Kimia-Farma-Virtual-Internship/assets/134364048/45663d16-5e00-4d01-83f7-48e07598d88e)
+
+
    
 
 
