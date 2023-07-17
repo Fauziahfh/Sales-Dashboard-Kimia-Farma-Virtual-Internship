@@ -1,6 +1,6 @@
 # Sales Dashboard PT. Kimia Farma (Virtual Internship Project)
 
-Tool: PostgreSQL, pgAdmin 4, Google Data Studio
+Tools: PostgreSQL, pgAdmin 4, Google Data Studio
 
 Programming Language: SQL
 
